@@ -4,8 +4,7 @@
 
 This project aims to develop an application for electric vehicle (EV) charging stations. The app is designed to help EV users easily find and use nearby charging stations. It also provides a backend management system for charging station owners and administrators to monitor and manage the status of the charging stations. The app is integrated with the Line platform, allowing users to find and reserve charging stations and receive notifications related to charging.
 
-https://youtu.be/Zx-Ync9slvs
-https://youtu.be/0fwXaGeYYZY
+https://youtu.be/7OuWhsaEWeU
 
 ## Features
 
